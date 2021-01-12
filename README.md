@@ -1,1 +1,1 @@
-# Graphite-Sensor-Research
+# Graphite-Sensor-System-Research is a university/military research at Advanced Research Complex of the University of Ottawa. The purpose of the research is to design a portable device for military solders to detect harmful gas in field by using Graphite Sensor.The project was lead by Professor Jeongwon Park at Electrical Engineering department, Professor Jean-Michel Guay, Adina Luican-Mayer, and Jean-Michel Ménard at the Physics department.
